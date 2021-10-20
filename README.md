@@ -1,3 +1,3 @@
 # GuiadeCidade
-Um site com informações sobre uma cidade específica
+Um site com informações sobre uma cidade específica.
 Criado em conjunto com outros dois amigos
